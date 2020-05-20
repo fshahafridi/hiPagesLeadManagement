@@ -1,0 +1,55 @@
+ 
+<ng-container *ngIf="(jobsData==null ||jobsData.length!=0) ; then cardtemplate; else norecordtemplate">
+</ng-container>
+
+<ng-template #cardtemplate>
+    <div class="card" *ngFor="let job of jobsData">
+        <div class="card-header">
+            <div class="initial">{{job.initials}}</div>
+            <div class="initial-details">
+                <div class="name">
+                    {{ job.contactName }}
+                </div>
+                <div class="smalltext">
+                    {{ job.createdAt | date:'MMM  d @ hh:mm a ' }}
+                </div>
+            </div>
+        </div>
+        <div class="card-body body-border-bottom">
+            <div class="row-border-bottom row">
+                <div>
+                    <i class="fa fa-map-marker"></i> {{job.suburb}} {{job.postcode}}
+                </div>
+                <div>
+                    <i class="fa fa-suitcase"></i> {{job.catagory}}
+                </div>
+                <div>
+                    Job ID:{{job.jobId}}
+                </div>
+                <div>
+                    ${{job.price}} Lead Invitation
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="info">
+                    <i class="fa fa-phone" aria-hidden="true"></i> {{job.contactPhone}}
+                </div>
+                <div class="info">
+                    <i class="fa fa-envelope" aria-hidden="true"></i> {{job.contactEmail}}
+                </div>
+    
+            </div>
+            <div class="row smalltext">
+                <p>
+                    {{ job.description }}
+                </p>
+            </div>
+        </div>
+    
+    </div>
+</ng-template>
+<ng-template #norecordtemplate>
+<p> No record exits</p>
+</ng-template>

@@ -1,0 +1,32 @@
+.container {
+    padding: 20px;
+    background-color: #eeeeee;
+}
+
+.row {
+    margin: 0px !important;
+}
+
+.tab {
+    border: solid 1px rgb(226, 226, 226);
+    padding: 20px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+
+.selected {
+    border-bottom: solid 3px #ff7b12;
+}
+
+.border-left {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.border-right {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+

@@ -1,0 +1,31 @@
+ 
+<div class="col-md-12 container">
+
+    <div class="row">
+        <div class="col-sm tab border-left" [ngClass]="{'selected': selectedTab==TabEnum.invited}" (click)="onTabSelect(TabEnum.invited)" >
+            Invited
+        </div>
+        <div class="col-sm tab border-right" [ngClass]="{'selected': selectedTab==TabEnum.accepted}"   (click)="onTabSelect(TabEnum.accepted)">
+            Accepted
+        </div>
+    </div>
+    <div >
+ 
+    </div>
+
+    <ng-container *ngIf="selectedTab==TabEnum.invited; then invitedTab; else acceptedTab">
+        
+    </ng-container>
+
+    <ng-template #invitedTab>
+        <!--Load Invited Component as Card and pass the resultant data as @input-->
+        <div class="row" (jobStatusUpdated)='onJobStatusUpdate($event)'  [JobsData]="jobList" lead-invited>
+
+        </div>
+     </ng-template>
+    <ng-template #acceptedTab>
+        <!--Load accepted Component as Card and pass the resultant data- as @input -->
+        <div class="row" [JobsData]="jobList"  lead-accepted></div>
+    </ng-template>
+
+</div>

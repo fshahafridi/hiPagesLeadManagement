@@ -1,0 +1,54 @@
+ 
+<ng-container *ngIf="(jobsData==null ||jobsData.length!=0); then cardtemplate; else norecordtemplate">
+</ng-container>
+<ng-template #cardtemplate>
+
+    <div class="card" *ngFor="let job of jobsData">
+        <div class="card-header">
+            <div class="initial">{{job.initials}}</div>
+            <div class="initial-details">
+                <div class="name">
+                    {{ job.contactName }}
+                </div>
+                <div class="smalltext">
+                    {{ job.createdAt | date:'MMM  d @ hh:mm a ' }}
+
+                </div>
+            </div>
+        </div>
+        <div class="card-body body-border-bottom">
+            <div class="row-border-bottom row">
+                <div>
+                    <i class="fa fa-map-marker"></i> {{job.suburb}} {{job.postcode}}
+                </div>
+                <div>
+                    <i class="fa fa-suitcase"></i> {{job.catagory}}
+                </div>
+                <div>
+                    Job ID:{{ job.jobId }}
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+
+
+            <div class="row smalltext">
+
+                <p class="rightmargin">
+                    {{ job.description }}
+                </p>
+
+            </div>
+
+        </div>
+        <div class="card-footer smalltext">
+            <input type="button" class="btn btn-primary" value="Accept" (click)="updateJob(jobStatus.accepted,job.jobId )">&nbsp;
+            <input type="button" class="btn btn-secondary" value="Decline"  (click)="updateJob(jobStatus.declined, job.jobId)">
+            <span style="margin-left: 20px; display: inline-block; font-weight: bold;">${{job.price}}</span> Lead
+            Invitation
+        </div>
+    </div>
+</ng-template>
+<ng-template #norecordtemplate>
+    <p> No record exits</p>
+</ng-template>
