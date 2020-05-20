@@ -1,0 +1,36 @@
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.deps.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.AssemblyInfo.cs
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.deps.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.AssemblyInfo.cs
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.deps.json
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.AssemblyInfo.cs
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.deps.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Repository\bin\Debug\netstandard2.0\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.AssemblyInfo.cs
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Repository\obj\Debug\netstandard2.0\LeadManagement.Repository.pdb

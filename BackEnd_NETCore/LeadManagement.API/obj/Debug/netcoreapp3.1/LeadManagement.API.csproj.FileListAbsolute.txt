@@ -1,0 +1,250 @@
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.exe
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.deps.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.runtimeconfig.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.runtimeconfig.dev.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.AssemblyInfo.cs
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.RazorTargetAssemblyInfo.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\LeadManagement.API.StaticWebAssets.Manifest.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\LeadManagement.API.StaticWebAssets.xml
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.genruntimeconfig.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csproj.CopyComplete
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Service.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Utilities.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Service.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Utilities.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.AssemblyInfo.cs
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.exe
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.deps.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.runtimeconfig.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.runtimeconfig.dev.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Dtos.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Service.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Utilities.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Dtos.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Service.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Utilities.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.RazorTargetAssemblyInfo.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csproj.CopyComplete
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\LeadManagement.API.StaticWebAssets.Manifest.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\LeadManagement.API.StaticWebAssets.xml
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.genruntimeconfig.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.exe
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.deps.json
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.runtimeconfig.json
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.runtimeconfig.dev.json
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Dtos.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Service.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Utilities.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Dtos.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Service.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Utilities.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.AssemblyInfo.cs
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.RazorTargetAssemblyInfo.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csproj.CopyComplete
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\LeadManagement.API.StaticWebAssets.Manifest.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\LeadManagement.API.StaticWebAssets.xml
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.genruntimeconfig.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.exe
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.deps.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.runtimeconfig.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.runtimeconfig.dev.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.API.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Dtos.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Repository.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Service.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Utilities.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Dtos.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Repository.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Service.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\bin\Debug\netcoreapp3.1\LeadManagement.Utilities.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.AssemblyInfo.cs
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.RazorTargetAssemblyInfo.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.csproj.CopyComplete
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\LeadManagement.API.StaticWebAssets.Manifest.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\LeadManagement.API.StaticWebAssets.xml
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.API\obj\Debug\netcoreapp3.1\LeadManagement.API.genruntimeconfig.cache

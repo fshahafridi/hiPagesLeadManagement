@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeadManagement.API", "LeadManagement.API\LeadManagement.API.csproj", "{0EB65209-8DA9-4A78-9AE5-DF4C455EDC33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeadManagement.Repository", "LeadManagement.Repository\LeadManagement.Repository.csproj", "{5DDC97C5-A5B4-4E23-AA71-49BE7C480338}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeadManagement.Service", "LeadManagement.Service\LeadManagement.Service.csproj", "{35B9682B-90EB-4A0D-BD96-DF33C0303179}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeadManagement.Utilities", "LeadManagement.Utilities\LeadManagement.Utilities.csproj", "{5026B13E-1990-4AAD-B200-E36D46900191}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeadManagement.Dtos", "LeadManagement.Dtos\LeadManagement.Dtos.csproj", "{C4E461F0-1261-43B6-BCAD-354C13D108D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeadManagement.UnitTests", "LeadManagement.UnitTests\LeadManagement.UnitTests.csproj", "{02523156-BEE6-4C12-A2ED-2E66990B5410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB65209-8DA9-4A78-9AE5-DF4C455EDC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB65209-8DA9-4A78-9AE5-DF4C455EDC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB65209-8DA9-4A78-9AE5-DF4C455EDC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB65209-8DA9-4A78-9AE5-DF4C455EDC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DDC97C5-A5B4-4E23-AA71-49BE7C480338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDC97C5-A5B4-4E23-AA71-49BE7C480338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDC97C5-A5B4-4E23-AA71-49BE7C480338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDC97C5-A5B4-4E23-AA71-49BE7C480338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B9682B-90EB-4A0D-BD96-DF33C0303179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B9682B-90EB-4A0D-BD96-DF33C0303179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B9682B-90EB-4A0D-BD96-DF33C0303179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B9682B-90EB-4A0D-BD96-DF33C0303179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5026B13E-1990-4AAD-B200-E36D46900191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5026B13E-1990-4AAD-B200-E36D46900191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5026B13E-1990-4AAD-B200-E36D46900191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5026B13E-1990-4AAD-B200-E36D46900191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E461F0-1261-43B6-BCAD-354C13D108D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E461F0-1261-43B6-BCAD-354C13D108D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E461F0-1261-43B6-BCAD-354C13D108D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E461F0-1261-43B6-BCAD-354C13D108D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02523156-BEE6-4C12-A2ED-2E66990B5410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02523156-BEE6-4C12-A2ED-2E66990B5410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02523156-BEE6-4C12-A2ED-2E66990B5410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02523156-BEE6-4C12-A2ED-2E66990B5410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B32CE33-7423-4161-A22E-A9390B241573}
+	EndGlobalSection
+EndGlobal

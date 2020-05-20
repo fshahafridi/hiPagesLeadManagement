@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEHbxHUjYNKUMIqXnqRAxtCoD1N+2puvT/AU7E54MZAJXvb7N7OqesgQPLZsSMPXbcc1UfpOLg8QMhZiVf4dOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faiq\\source\\repos\\HiPagesLeadManagement\\BackEnd_NETCore\\LeadManagement.Dtos\\LeadManagement.Dtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faiq\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\faiq\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

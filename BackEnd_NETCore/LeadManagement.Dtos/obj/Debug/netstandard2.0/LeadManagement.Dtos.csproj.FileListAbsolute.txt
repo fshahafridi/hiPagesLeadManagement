@@ -1,0 +1,36 @@
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Dtos.deps.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Dtos.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Dtos.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Utilities.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Utilities.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.AssemblyInfo.cs
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.csproj.CopyComplete
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement - Copy\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Dtos.deps.json
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Dtos.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Dtos.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Utilities.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Utilities.pdb
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.AssemblyInfo.cs
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.csproj.CopyComplete
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.dll
+C:\Users\faiq\source\repos\Mediator\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Dtos.deps.json
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Dtos.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Dtos.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Utilities.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\bin\Debug\netstandard2.0\LeadManagement.Utilities.pdb
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.csprojAssemblyReference.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.AssemblyInfoInputs.cache
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.AssemblyInfo.cs
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.csproj.CopyComplete
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.dll
+C:\Users\faiq\source\repos\HiPagesLeadManagement\BackEnd_NETCore\LeadManagement.Dtos\obj\Debug\netstandard2.0\LeadManagement.Dtos.pdb
